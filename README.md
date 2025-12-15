@@ -199,7 +199,7 @@ Before setting up the project, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/jay2121js/LearnSpareBackend-.git
-cd smartlearn-backend
+cd LearnSpareBackend
 ```
 
 ### 2️⃣ Configure Environment Variables
