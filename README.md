@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 SmartLearn Backend API
+# 🎓 LearnSpare Backend
 
 <p align="center">
   <strong>A robust and scalable RESTful API for an online learning platform</strong>
@@ -198,7 +198,7 @@ Before setting up the project, ensure you have the following installed:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/smartlearn-backend.git
+git clone https://github.com/jay2121js/LearnSpareBackend-.git
 cd smartlearn-backend
 ```
 
@@ -674,7 +674,7 @@ We welcome contributions from the community! Here's how you can help:
 
 2. **Clone your fork**
    ```bash
-   git clone https://github.com/your-username/smartlearn-backend.git
+   git clone https://github.com/jay2121js/LearnSpareBackend-.git
    cd smartlearn-backend
    ```
 
@@ -741,17 +741,17 @@ We welcome contributions from the community! Here's how you can help:
   <tr>
     <td align="center" width="33%">
       <h3>📧 Email</h3>
-      <a href="mailto:support@smartlearn.com">support@smartlearn.com</a>
+      <a href="mailto:jay21213.js@gmail.com">jay21213.js@gmail.com</a>
       <br><em>For general inquiries</em>
     </td>
     <td align="center" width="33%">
       <h3>🐛 Issues</h3>
-      <a href="https://github.com/yourusername/smartlearn-backend/issues">GitHub Issues</a>
+      <a href="https://github.com/jay2121js/LearnSpareBackend-/issues">GitHub Issues</a>
       <br><em>Report bugs & request features</em>
     </td>
     <td align="center" width="33%">
       <h3>💬 Discussions</h3>
-      <a href="https://github.com/yourusername/smartlearn-backend/discussions">GitHub Discussions</a>
+      <a href="https://github.com/jay2121js/LearnSpareBackend-/discussions">GitHub Discussions</a>
       <br><em>Ask questions & share ideas</em>
     </td>
   </tr>
@@ -760,10 +760,8 @@ We welcome contributions from the community! Here's how you can help:
 ### 🔗 Connect with the Developer
 
 <p>
-  <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/jay2121js"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/jay-soni-816521238/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 </div>
